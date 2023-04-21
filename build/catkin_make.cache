@@ -1,2 +1,0 @@
-ars408
--DCATKIN_DEVEL_PREFIX=/home/lin/catkin_ars408/devel -DCMAKE_INSTALL_PREFIX=/home/lin/catkin_ars408/install -G Unix Makefiles
