@@ -1,0 +1,9 @@
+/home/lin/catkin_ars408/install/_setup_util.py
+/home/lin/catkin_ars408/install/env.sh
+/home/lin/catkin_ars408/install/setup.bash
+/home/lin/catkin_ars408/install/local_setup.bash
+/home/lin/catkin_ars408/install/setup.sh
+/home/lin/catkin_ars408/install/local_setup.sh
+/home/lin/catkin_ars408/install/setup.zsh
+/home/lin/catkin_ars408/install/local_setup.zsh
+/home/lin/catkin_ars408/install/.rosinstall
